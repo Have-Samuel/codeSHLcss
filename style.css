@@ -6,10 +6,10 @@ body {
 }
 
 .one {
-  width: 400px;
-  height: 400px;
+  width: 450px;
+  height: 450px;
   background-color: red;
-  position: relative;
+  position: absolute;
   top: -53px;
   left: -53px;
 }
@@ -19,8 +19,8 @@ body {
   height: 300px;
   background-color: yellow;
   position: absolute;
-  top: 12%;
-  left: 12%;
+  top: 150px;
+  left: 150px;
 }
 
 .three {
@@ -28,8 +28,8 @@ body {
   height: 200px;
   background-color: green;
   position: absolute;
-  top: 152px;
-  left: 352px;
+  top: -102px;
+  left: -102px;
 }
 
 .four {
@@ -38,5 +38,5 @@ body {
   background-color: blue;
   position: absolute;
   top: 100px;
-  left: 0;
+  left: 100px;
 }
