@@ -9,9 +9,9 @@ body {
   width: 400px;
   height: 400px;
   background-color: red;
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: relative;
+  top: -53px;
+  left: -53px;
 }
 
 .two {
@@ -28,8 +28,8 @@ body {
   height: 200px;
   background-color: green;
   position: absolute;
-  top: 18%;
-  left: 18%;
+  top: 0;
+  left: 0;
 }
 
 .four {
@@ -37,6 +37,6 @@ body {
   height: 100px;
   background-color: blue;
   position: absolute;
-  top: 25%;
-  left: 25%;
+  top: 0;
+  right: -1645px;
 }
