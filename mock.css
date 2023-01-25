@@ -1,4 +1,4 @@
-.level1 {
+/* .level1 {
   background-color: #f0e9e9b9;
   padding: 3rem;
   width: 10%;
@@ -53,4 +53,13 @@ hr {
 
 p {
   margin: 1rem;
-}
+} */
+
+/* .tripple {
+  background-image: url('./images/princess1.jpeg'), url('./images/P-2.jpeg'), url('./images/S-1.jpg');
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: bottom right, left, right;
+  background-size: contain;
+  width: 50%;
+  height: 40vh;
+} */
